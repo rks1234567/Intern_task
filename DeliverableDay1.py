@@ -1,4 +1,4 @@
-""" so 1st i have write my code in test.py file and then i have asked claude.ai to suggest three improvements
+""" so 1st i have write my code in test.py file and then i have asked chatgpt to suggest three improvements
 # so it gives me 3 improvements as
 # 1st improvement :- Add Input validation, For example if user doesn't write birth year in integer then it will give
 us input error so we have write try block for solving this problem.
