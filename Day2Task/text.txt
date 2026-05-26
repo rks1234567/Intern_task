@@ -1,0 +1,76 @@
+I asked ChatGPT, Mistral Le Chat, Gemini, and Claude.ai the same question:
+
+“What are Large Language Models? Tokens, Training, Prediction”
+
+All four models gave similar explanations, but each explained the concepts in a different style and structure.
+
+1. ChatGPT
+
+ChatGPT first explained what an LLM is.
+Then it explained Tokens — how text is broken down into smaller parts — along with examples, why tokens matter, and some rough rules about token counts.
+
+After that, it explained:
+
+Training
+Neural networks and parameters
+Prediction
+Why LLMs appear intelligent
+
+Finally, it explained:
+
+Fine-tuning
+Alignment
+2. Mistral Le Chat
+
+Mistral explained all the concepts with more examples and focused only on the specific subtopics I asked about.
+Its answers were more direct and concise, without adding extra topics.
+
+3. Gemini
+
+Gemini explained the concepts in a brief and structured way.
+
+For Tokens, it explained:
+
+What tokens are
+Why tokenization is needed
+How models process numbers and text differently
+
+For Training, it divided the explanation into two phases:
+
+Pretraining
+Fine-tuning
+
+Then, under Fine-tuning and Alignment, it further explained:
+
+Instruction tuning
+RLHF (Reinforcement Learning from Human Feedback)
+
+For Prediction, it explained how models generate text step by step.
+
+At the end, it also provided a short summary of all concepts.
+
+4. Claude.ai
+
+Claude gave an explanation similar to Gemini’s structure.
+In addition, it explained:
+
+Model size
+Parameters
+Rough analogies for different model sizes
+
+For example:
+
+Small models
+~1B parameter models
+Pattern recognition capabilities
+Overall Observation
+
+Although all the models explained the same core concepts — Tokens, Training, and Prediction — each model presented the information differently in terms of:
+
+Structure
+Depth
+Examples
+Additional concepts
+Level of detail
+
+Some models focused on concise explanations, while others provided broader context and deeper technical details.I asked ChatGPT, Mistral Le Chat, Gemini, and Claude.ai the same question:
