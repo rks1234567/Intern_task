@@ -29,3 +29,14 @@ for i in integers:
 
 print(lst)
 """
+
+# for loops in a list
+# Linear Search
+list = [2,3,5,10,6]
+idx = 0
+x = 10
+for i in list:
+    if(i==x):
+        print(f"{x} found at index {idx}")
+        break
+    idx+=1
