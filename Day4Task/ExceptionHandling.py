@@ -7,3 +7,5 @@ except ValueError:
     print("Invalid Input")
 else:
     print(f"ans is: {ans}")
+finally:
+    print("This block is always executed")
