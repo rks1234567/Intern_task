@@ -1,3 +1,1 @@
-My name is Rohit 
-And I am 23 years old
-And I am from Himachal Pradesh
+Hello,this write method overwrites the text in sample.text file
