@@ -11,7 +11,7 @@ client = genai.Client(
 
 response = client.models.generate_content(
     model="gemini-2.5-flash",
-    contents="Explain machine learning in exactly 50 words."
+    contents="Explain Gen AI in exactly 50 words."
 )
 
 print(response.text)
